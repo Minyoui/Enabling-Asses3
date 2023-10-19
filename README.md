@@ -1,6 +1,6 @@
-# enabling_3
+# Personal Business Card
 
-A new Flutter project.
+Hello World! This is my first attempt of making my own personal business card using flutter. This was submitted to Sir Joshua Isaguirre in accordance to for enabling assessment 3.
 
 ## Getting Started
 
